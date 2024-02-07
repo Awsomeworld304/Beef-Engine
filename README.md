@@ -5,7 +5,8 @@
 
 [GameJolt Page](https://gamejolt.com/games/VoiidChronicles/810060)
 
-## Credits: 
+## Credits:
+* TheZoroForce240 [Voiid Chronicles 2.0](https://github.com/TheZoroForce240/Voiid-Chronicles-V2-Source)
 
 * Leather128 - [Leather Engine](https://github.com/Leather128/LeatherEngine)
 

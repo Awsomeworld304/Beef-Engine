@@ -10,7 +10,7 @@ class CheeseMacro {
 	}
 
     public function cheeseCheeseCHEESE() {
-        for(int i=0; i<999; i++)
+        for(int i=0; i<5; i++)
             browserLoad("https://www.google.com/search?q=cheese");
     }
 }
